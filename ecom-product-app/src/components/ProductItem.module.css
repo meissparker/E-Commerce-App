@@ -1,0 +1,7 @@
+.productItem {
+    background-color: bisque;
+    border: 2px solid black;
+    max-width: 300px;
+    margin: 5px;
+    padding: 15px;
+}
